@@ -1,0 +1,54 @@
+#include <iostream>
+using namespace std;
+
+double calculateTotal (int code)
+{
+    switch (code)
+    {
+        case 101: return 9.90; break;
+        case 201: return 6.90; break;
+        case 305: return 7.99; break;
+        case 404: return 5.99; break;
+        default: cout << "Invalid code. Please try again!" << endl; 
+    }
+    return 0;
+}
+
+double userInput ()
+{
+    int code,amount;
+    double price, total = 0;
+
+    cout << "Enter item's code=>";
+    cin >> code;
+
+    do
+    {
+        if (code == 101 || code == 201 || code == 305 || code == 404)
+        {
+            price = calculateTotal (code);
+
+            cout << "Enter amount of items=>";
+            cin >> amount;
+
+            total += price * amount;
+        }
+        else
+            cout << "Invalid code. Please try again!" << endl;
+
+        cout << "Enter item's code=>";
+        cin >> code;
+        
+    } while (code != 0);
+
+    return total;
+}
+
+int main ()
+{
+    double total = userInput ();
+    cout << "Total amount to pay: " << total;
+    return 0;
+}
+    
+
