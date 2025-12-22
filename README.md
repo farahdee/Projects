@@ -1,4 +1,4 @@
-# Projects: Car Rental Program
+# Project: Car Rental Program
 
 ## Problem Statement
 This project involves the development of a Car Rental Program using C++. The program is designed to simulate a simple car rental system where users can select a car model, enter the number of rental hours, and receive the total rental cost. The system is menu-driven and allows users to perform multiple rentals in a single run.
@@ -55,3 +55,12 @@ This project will provide a valuable hands-on experience in developing a complet
 - Conditional and loop control structures
 
 Overall, this program successfully demonstrate the practical application of C++ in solving real-world problems.
+
+---
+## Program Output
+<img width="500" height="478" alt="Screenshot 2025-12-22 182802" src="https://github.com/user-attachments/assets/0f95a020-320c-47db-94e6-3f961e498911" />
+
+
+<img width="536" height="888" alt="Screenshot 2025-12-22 182827" src="https://github.com/user-attachments/assets/62fe717c-2730-4123-98ef-c009f38ba0b2" />
+
+
