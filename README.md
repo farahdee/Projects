@@ -53,8 +53,5 @@ This project will provide a valuable hands-on experience in developing a complet
 - Functions and parameter passing
 - Input validation techniques
 - Conditional and loop control structures
-Overall, this program successfully demonstrate the practical application of C++ in solving real-world problems.
-- Performing multi-stage calculations
-- Structuring menu-driven programs
 
-By fixing the provided code, the program now performs accurately and demonstrates clean, correct flow.
+Overall, this program successfully demonstrate the practical application of C++ in solving real-world problems.
