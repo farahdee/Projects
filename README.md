@@ -11,8 +11,6 @@ This project tests the ability to:
 - Practice use of functions, loop, and repeatitions
 - Perform correct calculation based on different requirements
 
----
-
 ## Overview
 The Car Rental Program is a menu-driven system that allows users to:
 - View the list of available cars
@@ -20,21 +18,16 @@ The Car Rental Program is a menu-driven system that allows users to:
 - Calculate rental costs based on hourly rates and rate increases
 - Display a complete rental summary
 
----
-
 ## Objective of Program
 - Ensure correct validation for menu and car model selction
 - Use functions to calculate the cost efficiently
 - Control program flow using loops
 - Produce accurate and readable output for users
----
 
 ## Rental Rate Rules
 - First 12 hours: Normal hourly rate
 - 12 to 24 hours: Hourly rate with an additional 2% increment
 - More than 24 hours: Hourly rate with an additional 5% increment
-
----
 
 ## Program Flow
 1. Display the menu
@@ -46,8 +39,6 @@ The Car Rental Program is a menu-driven system that allows users to:
 7. Confirmation to proceed or exit
 8. Repeat based on user decision
 
----
-
 ## Conclusion
 This project will provide a valuable hands-on experience in developing a complete C++ program. It helps in improving my understanding of:
 - Functions and parameter passing
@@ -56,7 +47,9 @@ This project will provide a valuable hands-on experience in developing a complet
 
 Overall, this program successfully demonstrate the practical application of C++ in solving real-world problems.
 
----
+## Reflection
+This project helped me strengthen my understanding of basic C++ programming concepts, especially the use of functions, loops, and input validation. Designing a menu-driven car rental system allowed me to see how programming logic can be applied to real-world scenarios. I also learned the importance of organizing program flow clearly to ensure accurate calculations and user-friendly output. Overall, the project improved my confidence in writing structured C++ programs and solving practical problems effectively.
+
 ## Program Output
 <img width="500" height="478" alt="Screenshot 2025-12-22 182802" src="https://github.com/user-attachments/assets/0f95a020-320c-47db-94e6-3f961e498911" />
 
